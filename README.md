@@ -1,8 +1,22 @@
-<p align="center">
+<div align="center">
   <strong>φ</strong>
-</p>
+  <h1>Growth Metrics Toolkit</h1>
+  <p><em>Essential quantitative metrics for data-driven marketing decisions</em></p>
+  <p>
+    <a href="https://github.com/elidadutra187/growth-metrics-toolkit">Repository</a> ·
+    <a href="https://github.com/elidadutra187">GitHub Profile</a>
+  </p>
+</div>
 
-# Growth Metrics Toolkit
+
+## Positioning
+
+This repository is part of the `φ` portfolio by [Élida Dutra](https://github.com/elidadutra187), focused on practical systems for e-commerce, automation, analytics, content generation and growth operations.
+
+**Repository:** [elidadutra187/growth-metrics-toolkit](https://github.com/elidadutra187/growth-metrics-toolkit)  
+**GitHub:** [https://github.com/elidadutra187](https://github.com/elidadutra187)  
+**Purpose:** Essential quantitative metrics for data-driven marketing decisions
+
 
 > Essential quantitative metrics for data-driven marketing decisions
 
@@ -172,3 +186,10 @@ MIT
   <strong>φ</strong><br>
   <em>Building intelligent systems at the intersection of marketing, data, and AI</em>
 </p>
+
+<div align="center">
+  <strong>φ</strong>
+  <br />
+  <sub>Built and maintained by <a href="https://github.com/elidadutra187">Élida Dutra</a>.</sub>
+</div>
+
